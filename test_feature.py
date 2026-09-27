@@ -6,3 +6,6 @@ def project_status():
 
 def automation_ready():
     return "Automation pipeline is now ready."
+
+def hello():
+    return "Hello from my project!"
