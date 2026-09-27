@@ -5,4 +5,4 @@ def project_status():
     return "AI automation system is active."
 
 def automation_ready():
-    return "Automation pipeline is ready."
+    return "Automation pipeline is now ready."
