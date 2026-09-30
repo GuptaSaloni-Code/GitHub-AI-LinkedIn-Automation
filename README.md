@@ -44,6 +44,7 @@ The system automatically converts development activity into a professional conte
 - Testing it
 - fixed bug
 - testing and fixing
+- retest
 
 ---
 
