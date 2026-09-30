@@ -195,7 +195,6 @@ async def github_webhook(request: Request):
         email_result = None
 
     return {
-        "status": "received",
-        "linkedin_post": linkedin_post,
-        "email": email_result
-    } 
+    "status": "success",
+    "message": "LinkedIn draft generated and emailed successfully"
+}
